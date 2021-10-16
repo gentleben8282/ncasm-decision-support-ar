@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Button Text_zh-TW
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-TW
+  m_SharedData: {fileID: 11400000, guid: 8e838a61aaf157b4d96d702b3dd91682, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 47633793024
+    m_Localized: "\u97F3\u6A02\u7BC0\u5834\u666F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317138796544
+    m_Localized: "\u8DB3\u7403\u6BD4\u8CFD\u5834\u666F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13684129792000
+    m_Localized: "\u5BB6"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 65569629011968
+    m_Localized: "\u6C7A\u7B56\u652F\u63F4AR"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000b215720c0000
