@@ -1,4 +1,38 @@
-﻿6.0.5 (2021-07-18)
+﻿7.0.2 (2021-10-14)
+- Fixes for VR.
+- Allow atmospheric fog for VR.
+
+7.0.1 (2021-10-02)
+- Hotfix for allowed cameras.
+- Fix bugs with flag cloud lighting.
+
+7.0.0 (2021-09-27)
+- Please backup your project before updating.
+- For best results, remove Weather Maker entirely and then re-download.
+- Further improvements to cloud noise, lighting and performance.
+- Add cloud roundness parameter for improved shaping.
+- Add cloud ambient shadow for improved ambient lighting.
+- Remove some and refactor other cloud profile properties.
+- Auto set URP render pipeline asset to current quality level.
+
+6.1.3 (2021-08-11)
+- Improve clouds sharpness and overall appearance.
+
+6.1.2 (2021-08-08)
+- Improve cloud performance.
+- Improve horizon fade.
+- Improve fly-through profile and performance.
+- Adjust cloud noise textures.
+
+6.1.1 (2021-08-04)
+- Fix for black sky on Android and iOS.
+- Fix bugs with fly through clouds.
+- Fix banding in clouds.
+
+6.1.0 (2021-07-27)
+- Revamp of cloud profiles to improve variation and general appearance.
+
+6.0.5 (2021-07-18)
 - Re-upload to fix corrupted package.
 
 6.0.4 (2021-07-08)
